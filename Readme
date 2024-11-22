@@ -1,0 +1,18 @@
+Project Description - Malta.ipynb
+
+In the notebook Malta.ipynb, I have conducted data analysis and addressed the questions outlined in the problem statement. The project includes:
+
+Data Analysis:
+
+Exploration of the dataset to uncover patterns and relationships between features.
+Visualization of data using tools like matplotlib and seaborn to gain a deeper understanding of the dataset.
+Data Manipulation:
+
+Use of libraries like pandas and numpy for cleaning, transforming, and preparing the data for analysis and modeling.
+Machine Learning Implementation:
+
+Development of a predictive model to forecast house prices based on the provided features.
+Specifically, the ETCN model has been utilized to perform forecasting and achieve accurate predictions.
+This project demonstrates a comprehensive approach to data analysis and machine learning,
+leveraging advanced tools and methodologies to extract insights and deliver actionable results.
+
